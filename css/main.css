@@ -1,0 +1,140 @@
+.row{
+	width: 100%;
+    display: flex;
+}
+.col-1{
+	width: 8.33%;
+	
+}
+.col-2{
+	width: 16.67%;
+	
+}
+.col-3{
+	width: 25%;
+
+}
+.col-4{
+	width: 33.3%;
+	
+}
+.col-5{
+	width: 41.66%;
+	
+}
+.col-6{
+	width: 50%;
+	
+}
+.col-7{
+	width: 58.33%;
+	
+}
+.col-8{
+	width: 66.67%;
+
+}
+.col-9{
+	width: 75% ;
+	
+}
+.col-10{
+	width: 83.33%;
+	
+}
+.col-11{
+	width: 91.67%;
+	
+}
+.col-12{
+	width: 100%;
+	}
+.nav-bar{
+	display: flex;
+	
+ }
+.bar{
+	text-decoration: none;
+	list-style-type: none;
+	padding: 2rem;
+	font-size: 20px;
+
+}
+.header:hover{
+	color: orange;
+}
+.ice{
+		color: white;
+		padding-top: 10rem;
+		font-size: 50px;
+		font-weight: 800;
+	}
+    .ice2{
+    	color: white;
+		padding-top: 1rem;
+		font-size: 30px;
+	}
+		.background-image{
+		text-align: center;
+		background-image:url(../images/blueprint.jpg) ;
+		background-repeat: no-repeat;
+		background-size: cover;
+		padding-bottom: 15rem;
+		color: blue;
+	}
+	.chainz{
+		text-align: center;
+		background-color: saddlebrown;
+		padding-bottom: 3rem;
+		padding-top: 1rem;
+		font-size: 50px;
+		font-weight: 800;
+		color: white;
+	}
+	.chainz2{
+		padding-right: 5rem;
+	}
+	.desginer{
+	   padding-top: 2rem;
+	   margin-right: 5rem;
+
+	}
+	.deng{
+		width: 350px;
+		border-radius: 5px;
+		height: 30px;
+		padding-left: 2rem;
+		margin-bottom: 3rem;
+		
+	}
+	.sing-up{
+		text-align: center;
+	}
+	.reply{
+		width: 1000px;
+		height: 100px;
+		border-radius: 10px;
+		padding-left: 2rem;
+	}
+	.submit{
+		text-align: left;
+		padding-top:1rem ;
+		width: 155px;
+		padding-bottom: 1rem;
+		background-color: blue;
+        color: white;
+        border-radius: 10px;
+        margin-top: 0.1rem;
+	}
+	.new{
+		margin-right: 4rem;
+		border-radius: 10px;
+		color: white;
+	}
+	.message{
+		margin-left: 55rem;
+	}
+.icons{
+	padding: 1rem;
+	margin-right: 5rem;
+}
